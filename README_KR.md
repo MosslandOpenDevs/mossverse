@@ -1,5 +1,21 @@
 # Mossverse (Mossland Metaverse)
 
+> 🇺🇸 For the English notice, see [README.md](./README.md).
+
+> [!WARNING]
+> **이 저장소는 더 이상 유지보수되지 않는 보관용(deprecated) 저장소입니다.**
+>
+> **`meta.moss.land`** 에서 운영되던 초기 **모스버스(Mossverse)** 메타버스 코드입니다 — 자체 제작 클라이언트 스택(Nx 모노레포, React + three.js 렌더러, NestJS 백엔드, Luniverse/Klaytn 블록체인 연동).
+>
+> 현재 모스버스는 **[WorkAdventure](https://workadventu.re/)** 기반으로 새로 구축되어 **[`wa.moss.land`](https://wa.moss.land)** 에서 운영되고 있습니다.
+>
+> - 🗺️ 현재 월드 및 맵 소스: **[MosslandOpenDevs/mossverse-wa-map](https://github.com/MosslandOpenDevs/mossverse-wa-map)**
+>
+> 아래 내용은 히스토리 참고용으로만 보존되며, 현재 운영 중인 서비스와는 무관합니다.
+
+> [!NOTE]
+> 🕹️ 이스터에그: 현재 운영 중인 [`wa.moss.land`](https://wa.moss.land) 월드 한켠에는 이 옛 `meta.moss.land` 맵 화면이 조그만 전광판으로 걸려 있습니다 — 모스버스가 시작된 곳을 추억하는 작은 오마주죠.
+
 모스랜드의 메타버스 프로젝트 ‘모스버스’ Repository 입니다. 모스랜드(Mossland)는 현실과 가상 세계를 잇는 블록체인 기반 메타버스 프로젝트로 초연결 세상의 구현을 추구합니다.
 모스버스는 오픈소스로 개발되고 있으며 누구나 아이디어 제안과 개발에 참여할 수 있습니다.
 

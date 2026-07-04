@@ -1,4 +1,21 @@
 # Mossverse (Mossland Metaverse)
+
+> 🇰🇷 한국어 안내는 [README_KR.md](./README_KR.md) 를 참고하세요.
+
+> [!WARNING]
+> **This repository is deprecated and no longer maintained.**
+>
+> It holds the original **Mossverse** metaverse that powered **`meta.moss.land`** — a custom-built client stack (Nx monorepo, React + three.js renderer, NestJS backend, Luniverse/Klaytn blockchain integration).
+>
+> Mossverse has since been rebuilt on **[WorkAdventure](https://workadventu.re/)** and now runs at **[`wa.moss.land`](https://wa.moss.land)**.
+>
+> - 🗺️ Current world & map source: **[MosslandOpenDevs/mossverse-wa-map](https://github.com/MosslandOpenDevs/mossverse-wa-map)**
+>
+> Everything below is preserved for historical reference only and does not reflect the live service.
+
+> [!NOTE]
+> 🕹️ Easter egg: somewhere in the live [`wa.moss.land`](https://wa.moss.land) world, a tiny in-game billboard still shows this old `meta.moss.land` map — a quiet nod to where Mossverse began.
+
 ![Metavers](https://user-images.githubusercontent.com/109493423/196594917-b7e0ed27-6474-49fa-91cf-5a44ab2eeb03.png)
 
 This is the Mossland’s metaverse project ‘Mossverse’ Repository. Mossland is a blockchain-based metaverse project that connects the real and virtual worlds, pursuing the realization of a hyper-connected world.
